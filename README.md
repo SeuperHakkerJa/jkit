@@ -1,6 +1,6 @@
 # jkit
 
-simple pybind practice
+pybind practice
 
 
 ```
